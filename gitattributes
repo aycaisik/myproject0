@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.java linguist-detectable=false
+*.swift linguist-detectable=false
+*.react-native linguist-detectable=true
